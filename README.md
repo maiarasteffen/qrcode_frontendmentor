@@ -23,7 +23,7 @@ Esta é uma solução para o [desafio do componente de código Frontend Mentor](
 ### Links
 
 - URL da solução: [Repositório](https://github.com/maiarasteffen/qrcode_frontendmentor)
-- URL do site: [Site](https://github.com/maiarasteffen/maiarasteffen.github.io)
+- URL do site: [Site](https://maiarasteffen.github.io)
 
 ## Meu Processo
 
