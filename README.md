@@ -64,7 +64,7 @@ body {
     align-items: center;
     padding-bottom: 5px;
     justify-content: center;
-    margin: 5% 39%;
+    margin: 4% 40%;
     width: 330px;
     background-color: #fff;
     border: none;
@@ -78,7 +78,7 @@ body {
 }
 
 .h1-qr {
-    margin: 15px 40px;
+    margin: 15px;
     line-height: 25px;
     text-align: center;
     font-size: 20px;
@@ -88,7 +88,7 @@ body {
 
 
 .p-qr {
-    margin: 15px 40px;
+    margin: 15px;
     color: #737373;
     text-align: center;
     font-size: 15px;
